@@ -1,0 +1,28 @@
+com.example.birds_call_shazam.app-lifecycle-livedata-2.7.0-0 C:\Users\meanu\.gradle\caches\transforms-3\0b0a2e9682ead0e327b49aa686b67fa8\transformed\lifecycle-livedata-2.7.0\res
+com.example.birds_call_shazam.app-jetified-core-ktx-1.13.1-1 C:\Users\meanu\.gradle\caches\transforms-3\11b7ad9632fb6be2706fec8bca4cb594\transformed\jetified-core-ktx-1.13.1\res
+com.example.birds_call_shazam.app-jetified-window-1.2.0-2 C:\Users\meanu\.gradle\caches\transforms-3\1df38b1fd9979fe065e8eb6119fc0ad4\transformed\jetified-window-1.2.0\res
+com.example.birds_call_shazam.app-lifecycle-livedata-core-2.7.0-3 C:\Users\meanu\.gradle\caches\transforms-3\228b14e0c0b91b9426bbac083c062b31\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.birds_call_shazam.app-fragment-1.7.1-4 C:\Users\meanu\.gradle\caches\transforms-3\33ffda7dbacf2e9f56610e54a5ba299c\transformed\fragment-1.7.1\res
+com.example.birds_call_shazam.app-jetified-lifecycle-livedata-core-ktx-2.7.0-5 C:\Users\meanu\.gradle\caches\transforms-3\3db403d83a9d5bbd83e7a5295b2db2ca\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.birds_call_shazam.app-core-1.13.1-6 C:\Users\meanu\.gradle\caches\transforms-3\4b8b481fb2255c467bc7c602d4317379\transformed\core-1.13.1\res
+com.example.birds_call_shazam.app-jetified-annotation-experimental-1.4.0-7 C:\Users\meanu\.gradle\caches\transforms-3\4bbc5063b50faba0a8dd7e25735aaef2\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.birds_call_shazam.app-lifecycle-viewmodel-2.7.0-8 C:\Users\meanu\.gradle\caches\transforms-3\4c73bbd8e8c7dfc9f973cba09e0d18e4\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.birds_call_shazam.app-jetified-activity-1.8.1-9 C:\Users\meanu\.gradle\caches\transforms-3\517d5bc2a87c577976719f886a2c84da\transformed\jetified-activity-1.8.1\res
+com.example.birds_call_shazam.app-jetified-window-java-1.2.0-10 C:\Users\meanu\.gradle\caches\transforms-3\518368b3492abd0da5fabfac0485263e\transformed\jetified-window-java-1.2.0\res
+com.example.birds_call_shazam.app-jetified-profileinstaller-1.3.1-11 C:\Users\meanu\.gradle\caches\transforms-3\6b42a1475832e971603c3bac16a8450c\transformed\jetified-profileinstaller-1.3.1\res
+com.example.birds_call_shazam.app-jetified-savedstate-1.2.1-12 C:\Users\meanu\.gradle\caches\transforms-3\6de8b13d87e35ae303347fd58f8aa3cd\transformed\jetified-savedstate-1.2.1\res
+com.example.birds_call_shazam.app-jetified-startup-runtime-1.1.1-13 C:\Users\meanu\.gradle\caches\transforms-3\7ea3e1185ec380ec440d8e9c1720d237\transformed\jetified-startup-runtime-1.1.1\res
+com.example.birds_call_shazam.app-jetified-lifecycle-process-2.7.0-14 C:\Users\meanu\.gradle\caches\transforms-3\80ba39cc38777c140051c1d40ad7cd31\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.birds_call_shazam.app-lifecycle-runtime-2.7.0-15 C:\Users\meanu\.gradle\caches\transforms-3\9804338b616efa9b017b4395e52a6c1f\transformed\lifecycle-runtime-2.7.0\res
+com.example.birds_call_shazam.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-16 C:\Users\meanu\.gradle\caches\transforms-3\a3239c0ac04109b57302bb71ad7b513b\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.birds_call_shazam.app-core-runtime-2.2.0-17 C:\Users\meanu\.gradle\caches\transforms-3\a90a5c0d1110f83aec4e8264f050cf5d\transformed\core-runtime-2.2.0\res
+com.example.birds_call_shazam.app-jetified-core-1.0.0-18 C:\Users\meanu\.gradle\caches\transforms-3\b8ab76833b5222331a2c74676e9db871\transformed\jetified-core-1.0.0\res
+com.example.birds_call_shazam.app-jetified-tracing-1.2.0-19 C:\Users\meanu\.gradle\caches\transforms-3\beeff2df297dfde5c998311e095e3383\transformed\jetified-tracing-1.2.0\res
+com.example.birds_call_shazam.app-main-20 C:\Users\meanu\New folder\bird-call-shazam\birds_call_shazam\android\app\src\main\res
+com.example.birds_call_shazam.app-profile-21 C:\Users\meanu\New folder\bird-call-shazam\birds_call_shazam\android\app\src\profile\res
+com.example.birds_call_shazam.app-pngs-22 C:\Users\meanu\New folder\bird-call-shazam\birds_call_shazam\build\app\generated\res\pngs\profile
+com.example.birds_call_shazam.app-resValues-23 C:\Users\meanu\New folder\bird-call-shazam\birds_call_shazam\build\app\generated\res\resValues\profile
+com.example.birds_call_shazam.app-rs-24 C:\Users\meanu\New folder\bird-call-shazam\birds_call_shazam\build\app\generated\res\rs\profile
+com.example.birds_call_shazam.app-mergeProfileResources-25 C:\Users\meanu\New folder\bird-call-shazam\birds_call_shazam\build\app\intermediates\incremental\profile\mergeProfileResources\merged.dir
+com.example.birds_call_shazam.app-mergeProfileResources-26 C:\Users\meanu\New folder\bird-call-shazam\birds_call_shazam\build\app\intermediates\incremental\profile\mergeProfileResources\stripped.dir
+com.example.birds_call_shazam.app-merged_res-27 C:\Users\meanu\New folder\bird-call-shazam\birds_call_shazam\build\app\intermediates\merged_res\profile
